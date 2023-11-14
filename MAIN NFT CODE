@@ -1,4 +1,4 @@
-import NonFungibleToken from 0x02
+import NonFungibleToken from 0x06
 pub contract CryptoPoops: NonFungibleToken {
   pub var totalSupply: UInt64
 
