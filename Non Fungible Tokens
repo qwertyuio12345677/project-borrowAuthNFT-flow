@@ -1,5 +1,8 @@
 /**
 
+## The Flow Non-Fungible Token standard
+
+## `NonFungibleToken` contract interface
 
 The interface that all Non-Fungible Token contracts could conform to.
 If a user wants to deploy a new NFT contract, their contract would need
