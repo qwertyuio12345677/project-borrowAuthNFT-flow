@@ -1,5 +1,5 @@
-import CryptoPoops from 0x01
-import NonFungibleToken from 0x02
+import CryptoPoops from 0x05
+import NonFungibleToken from 0x06
 
 transaction() {
 
